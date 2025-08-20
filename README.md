@@ -3,4 +3,4 @@ A data analysis project using R Studio to compare ChatGPT and DeepSeek.
 The dataset was sourced from Kaggle, and the analysis includes calculating the five-number summary, creating boxplots to visualize distributions, detecting outliers, and comparing metrics such as user base and response speed.
 
 ### Preview
-![Analysis Screenshot](images/screenshot.png)
+![Analysis Screenshot](https://github.com/sandyeissa43/ChatGPT_vs_DeepSeek_Analysis/blob/main/Deepseek%20vs%20Chatgpt.jpeg)
